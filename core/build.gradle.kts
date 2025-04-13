@@ -53,7 +53,7 @@ publishing {
 
             groupId = "ir.radservices.core"
             artifactId = "podcore"
-            version = "0.0.2"
+            version = "0.0.3"
 
             afterEvaluate {
 
