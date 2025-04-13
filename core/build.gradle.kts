@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "ir.radservices.core"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         minSdk = 26
@@ -53,7 +53,7 @@ publishing {
 
             groupId = "ir.radservices.core"
             artifactId = "podcore"
-            version = "0.0.1"
+            version = "0.0.2"
 
             afterEvaluate {
 
